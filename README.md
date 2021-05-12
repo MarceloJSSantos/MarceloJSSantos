@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo Santos
 - 👀 I’m interested in Java, Python, Análise/Engenharia de Dados
-- 🌱 I’m currently learning Java e Python
+- 🌱 I’m currently learning Java (Spring Ecosystem)
 - 📫 How to reach me https://linkedin.com/in/marcelojssantos/
 <!---- 💞️ I’m looking to collaborate on ...--->
 
