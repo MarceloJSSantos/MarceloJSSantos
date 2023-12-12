@@ -43,12 +43,3 @@ Mas como sempre fui um intusiasta de tecnologias há +20 anos que sempre "brinqu
 ## Quadro de Contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarceloJSSantos&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-## Repositórios em Destaque
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJSSantos&repo=projeto-versao-pessoal-sistema-estoque-cerveja-api-rest-testes-unitarios-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloJSSantos/projeto-versao-pessoal-sistema-estoque-cerveja-api-rest-testes-unitarios-dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJSSantos&repo=projeto-versao-pessoal-controle-estoque-avanade-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloJSSantos/projeto-versao-pessoal-controle-estoque-avanade-dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJSSantos&repo=projeto-versao-pessoal-sistema-gerenciamento-pessoas-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloJSSantos/projeto-versao-pessoal-sistema-gerenciamento-pessoas-dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJSSantos&repo=projeto-microsservico-com-spring-cloud-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloJSSantos/projeto-microsservico-com-spring-cloud-dio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJSSantos&repo=api-rest-com-spring-security-bootcamp-dio-quebec-&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloJSSantos/api-rest-com-spring-security-bootcamp-dio-quebec-)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloJSSantos&repo=api-rest-bootcamp-dio-quebec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MarceloJSSantos/api-rest-bootcamp-dio-quebec)
